@@ -10,7 +10,7 @@ body {
 }
 
 .topSection {
-  width: 75%;
+  width: 50%;
   margin: auto;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 .halfSized {
-  width: 45%;
+  width: 100px;
   display: inline-block;
   margin: auto;
   padding: 10px;
