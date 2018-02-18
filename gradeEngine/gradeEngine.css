@@ -9,6 +9,10 @@ body {
   margin: auto;
 }
 
+.avatarImage {
+  text-align: right; 
+}
+
 .personalInfoDiv {
   vertical-align: middle;
 }
