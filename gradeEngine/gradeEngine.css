@@ -9,13 +9,13 @@ body {
   margin: auto;
 }
 
-.topSection {
-  width: 75%;
-  margin: auto;
-}
-
 .personalInfoDiv {
   vertical-align: middle;
+}
+
+.topSection {
+  width: 442px;
+  margin: auto;
 }
 
 .lowSpacing {
@@ -23,7 +23,7 @@ body {
 }
 
 .halfSized {
-  width: 100px;
+  width: 45%;
   display: inline-block;
   margin: auto;
   padding: 10px;
