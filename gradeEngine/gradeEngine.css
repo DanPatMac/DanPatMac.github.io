@@ -9,6 +9,11 @@ body {
   margin: auto;
 }
 
+.topSection {
+  width: 75%;
+  margin: auto;
+}
+
 .personalInfoDiv {
   vertical-align: middle;
 }
