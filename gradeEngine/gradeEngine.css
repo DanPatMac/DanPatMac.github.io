@@ -5,6 +5,7 @@ body {
 
 #reportCard {
   background-color: #f3f3f3;
+  border-radius: 25px;
   width: 75%;
   margin: auto;
 }
