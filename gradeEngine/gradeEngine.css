@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  margin: auto;
+}
+
+#reportCard {
+  background-color: #f3f3f3;
+  width: 75%;
+  margin: auto;
+}
+
+.personalInfoDiv {
+  vertical-align:middle;
+}
+
+.lowSpacing {
+  margin:0;
+}
+
+.halfSized {
+  width:45%;
+  display:inline-block;
+  margin:auto;
+  padding:10px;
+}
+
+#studentImage {
+  width:45%;
+  vertical-align:middle;
+}
+
+#studentId {
+  padding:5px;
+}
+
+table {
+  text-align: center;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: #86a1ce;
+  padding: 5px;
+}
