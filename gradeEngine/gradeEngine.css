@@ -10,27 +10,32 @@ body {
 }
 
 .personalInfoDiv {
-  vertical-align:middle;
+  vertical-align: middle;
+}
+
+.topSection {
+  width: 442px;
+  margin: auto;
 }
 
 .lowSpacing {
-  margin:0;
+  margin: 0;
 }
 
 .halfSized {
-  width:45%;
-  display:inline-block;
-  margin:auto;
-  padding:10px;
+  width: 45%;
+  display: inline-block;
+  margin: auto;
+  padding: 10px;
 }
 
 #studentImage {
-  width:45%;
-  vertical-align:middle;
+  width: 45%;
+  vertical-align: middle;
 }
 
 #studentId {
-  padding:5px;
+  padding: 5px;
 }
 
 table {
